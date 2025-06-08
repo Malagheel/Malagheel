@@ -25,9 +25,8 @@ Welcome to my GitHub! I’m a results driven Business Analyst passionate about a
 
 ---
 
-### 💡 Featured Projects
-- 🏢 **ERP Transformation at Alqarsh**  
-  Led requirements and process optimization for TechnologyOne & NetSuite; achieved 95% user adoption in month one, and reduced implementation time by 15%.
+### 📚 Projects
+Welcome to my portfolio, where I showcase my
 
 ---
 
