@@ -40,7 +40,6 @@ Welcome to my portfolio, where I showcase my
 ### 🤝 Let's Connect
 - [🔗 LinkedIn](https://www.linkedin.com/in/MatthewDalagheel)
 - 📧 MatthewDalagheel@outlook.com
-- 📍 Brisbane, QLD, Australia
 
 ---
 
