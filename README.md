@@ -1,23 +1,25 @@
 # 👋 Hello, I'm Matthew D. Alagheel
 
-## Business Analyst | Data Analyst | Process Optimizer
+## Business Analyst | Data Analyst | ERP Systems Specialist
 
 ---
 
-Welcome to my GitHub! I’m a results-driven Business Analyst with experience turning data into actionable insights, optimizing processes, and bridging the gap between stakeholders and technology.
+Welcome to my GitHub! I’m a results-driven Business Analyst passionate about aligning technology with business needs. I bring hands-on experience in ERP systems, process mapping, and data-driven decision making to deliver operational efficiency and strategic value.
 
 ### 💼 Key Strengths
-- 📊 **Data Analysis & Reporting**: Extract and analyze data using SQL and Excel; deliver actionable insights via Power BI dashboards.
-- 🔍 **Requirements Gathering**: Skilled in eliciting, documenting, and translating business needs using BABOK techniques.
-- 🔁 **Process Improvement**: Map and enhance workflows with BPMN, Visio, and Nintex Promapp to boost efficiency.
-- 🧪 **User Acceptance Testing (UAT)**: Design and manage test cases to ensure functionality aligns with business needs.
-- 🗣️ **Stakeholder Engagement**: Proven ability to communicate effectively across business and technical teams.
-- 🎯 **Project Delivery**: Experience working in Agile/Scrum and Waterfall environments using Jira, Confluence, and PRINCE2.
+- 🧾 **ERP Implementation & Optimization**: Hands-on experience with **TechnologyOne**, **NetSuite**, and CRM enhancements for finance, retail, and infrastructure sectors.
+- 🔍 **Requirements Gathering**: Elicit, document, and translate business requirements using **BABOK** techniques for clear traceability.
+- 🔄 **Business Process Modelling**: Improve workflows using **BPMN**, **Visio**, and **Nintex Promapp**, driving adoption and reducing cycle times.
+- 📊 **Data Analysis & Reporting**: Analyze data using **SQL** and **Excel**, and visualize performance through **Power BI** dashboards.
+- 🧪 **UAT & QA Support**: Manage test cases, trace requirements, and validate business rules through User Acceptance Testing.
+- 👥 **Stakeholder Engagement**: Collaborate with cross-functional teams to align project goals with business outcomes.
+- 💡 **Agile & Waterfall**: Experienced in both **Scrum/Agile** and **PRINCE2/Waterfall** methodologies using **Jira** and **Confluence**.
 
 ---
 
 ### 🛠️ Technical Toolkit
-- **Languages**: SQL, Python (for data projects)
+- **ERP/CRM Systems**: TechnologyOne, NetSuite, Custom CRM Enhancements
+- **Languages**: SQL, Python (for data tools & scripts)
 - **Visualization**: Power BI, Excel
 - **Databases**: PostgreSQL, MySQL
 - **Modelling Tools**: Visio, Nintex Promapp, Figma, Balsamiq
@@ -26,15 +28,15 @@ Welcome to my GitHub! I’m a results-driven Business Analyst with experience tu
 ---
 
 ### 💡 Featured Projects
-- 🔄 **ERP Implementation Support – Alqarsh**  
-  Optimized ERP processes, achieving a 95% user adoption rate and a 15% reduction in implementation time.
+- 🏢 **ERP Transformation at Alqarsh**  
+  Led requirements and process optimization for TechnologyOne & NetSuite; achieved 95% user adoption in month one, and reduced implementation time by 15%.
 
 ---
 
 ### 🎓 Education & Certifications
-- 🎓 **Bachelor of Business Informatics** – University of Canberra  
-- 🎓 **Diploma of IT** – University of Canberra  
-- 📜 **Certificate in Data Science: Productivity Tools** – Harvard University  
+- 🎓 Bachelor of Business Informatics – University of Canberra  
+- 🎓 Diploma of IT – University of Canberra  
+- 📜 Certificate in Data Science: Productivity Tools – Harvard University
 
 ---
 
@@ -45,4 +47,4 @@ Welcome to my GitHub! I’m a results-driven Business Analyst with experience tu
 
 ---
 
-📌 *Open to Business Analyst opportunities – permanent or contract. Let's build smarter solutions together!*
+📌 *Open to Business Analyst roles in ERP, data analytics, or process improvement. Available for contract and permanent opportunities.*
