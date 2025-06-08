@@ -37,10 +37,4 @@ Welcome to my portfolio, where I showcase my
 
 ---
 
-### 🤝 Let's Connect
-- [🔗 LinkedIn](https://www.linkedin.com/in/MatthewDalagheel)
-- 📧 MatthewDalagheel@outlook.com
-
----
-
 📌 *Open to Business Analyst roles in ERP, data analytics, or process improvement. Available for contract and permanent opportunities.*
