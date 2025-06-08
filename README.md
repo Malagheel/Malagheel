@@ -1,10 +1,8 @@
-# 👋 Hello, I'm Matthew D. Alagheel
+🙋🏻‍♀️ Introducing Myself
 
-## Business Analyst | Data Analyst | ERP Systems Specialist
+<img src="https://github.com/Malagheel/Malagheel/blob/main/White%20&%20Black%20Simple%20Personal%20LinkedIn%20Banner(1).png?raw=true" alt="Matthew Alagheel Banner" style="width:100%;" />
 
----
-
-Welcome to my GitHub! I’m a results-driven Business Analyst passionate about aligning technology with business needs. I bring hands-on experience in ERP systems, process mapping, and data-driven decision making to deliver operational efficiency and strategic value.
+Welcome to my GitHub! I’m a results driven Business Analyst passionate about aligning technology with business needs. I bring hands-on experience in ERP systems, process mapping, and data-driven decision making to deliver operational efficiency and strategic value.
 
 ### 💼 Key Strengths
 - 🧾 **ERP Implementation & Optimization**: Hands-on experience with **TechnologyOne**, **NetSuite**, and CRM enhancements for finance, retail, and infrastructure sectors.
