@@ -26,7 +26,9 @@ Welcome to my GitHub! I’m a results driven Business Analyst passionate about a
 ---
 
 ###  Projects
-Welcome to my portfolio, where I showcase my [Projects]([https://github.com/your-username/Cisco-Stock-SQL-Case-Study](https://github.com/Malagheel/Portfolio))
+
+Welcome to my portfolio, where I showcase my [Projects](https://github.com/Malagheel/Portfolio/blob/main/README.md)
+
 ---
 
 ###  Education & Certifications
